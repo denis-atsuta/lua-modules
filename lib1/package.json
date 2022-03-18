@@ -1,0 +1,13 @@
+{
+    "name": "lib1",
+    "version": "1.0.0",
+    "main": "./dist/index",
+    "types": "./dist/index",
+    "scripts": {
+      "build": "tstl",
+      "dev": "tstl --watch"
+    },
+    "dependencies": {
+      "lib2": "1.0.0"
+    }
+  }

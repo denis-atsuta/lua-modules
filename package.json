@@ -1,0 +1,11 @@
+{
+  "name": "lua-modules",
+  "workspaces": [
+    "lib2",
+    "lib1",
+    "app"
+  ],
+  "devDependencies": {
+    "typescript-to-lua": "~1.4.0"
+  }
+}
